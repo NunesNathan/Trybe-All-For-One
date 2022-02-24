@@ -1,1 +1,1 @@
-SELECT COUNT(product_name) FROM northwind.products;
+SELECT id FROM northwind.products;
